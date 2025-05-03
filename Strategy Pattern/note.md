@@ -1,0 +1,1 @@
+Strategy Pattern (Mẫu chiến lược) là một behavioral design pattern dùng để định nghĩa một tập hợp các thuật toán khác nhau và cho phép chúng thay thế lẫn nhau mà không thay đổi code client. Nó giúp tách logic thuật toán ra khỏi phần sử dụng, giúp code dễ mở rộng và bảo trì.
